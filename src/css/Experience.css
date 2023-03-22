@@ -1,0 +1,90 @@
+.exp{
+    background-color: #f8f4ee;
+    height: 100vh;
+    width: 80vw;
+}
+.heading_con{
+    width: 400px;
+    font-size: 1.8rem;
+    margin: 0px 120px 70px 120px;
+}
+.heading{
+    color: #4a422f;
+    padding-top: 120px;
+    border-bottom: 3px solid #a8873a;
+}
+.expcontainer{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.container_left {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.exptab {
+    margin-top: 40px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    cursor: pointer;
+    font-size: 1.4rem;
+    border-left: 2px solid #4a422f;
+    transition: all ease-in-out 0.3s;
+    border-radius: 2px;
+}
+
+.exptab:hover {
+    background: #a8873a;
+    color: #e5d8bb;
+}
+
+.expactive_tab {
+    background: #a8873a;
+    color: #a8873a;
+    border-left: 2px solid #a8873a;
+}
+
+.container_right {
+    padding-left: 4rem;
+    font-family: var(--font-sans);
+}
+
+.companytitle {
+    margin: 0;
+    line-height: 50px;
+    font-weight: 500;
+    font-size: 1.7rem;
+    color: #4a422f;
+    font-weight: bold;
+}
+
+.companytitle > a {
+    color: #a8873a;
+}
+
+.duration {
+    margin: 0;
+    font-size: 1.1rem;
+    color: #958a72;
+    margin-bottom: 20px;
+}
+
+.desc {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    color: #7a5f21;
+    padding: 7px 0px;
+}
+
+.desc > svg {
+    color: #a8873a;
+    width: 15px;
+    height: 15px;
+    margin-right: 15px;
+}

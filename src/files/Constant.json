@@ -1,0 +1,53 @@
+{
+    "experiences": [
+      {
+        "company": "Raise DIgital",
+        "link": "https://raisedigital.in/",
+        "title": "Frontend Intern & Trainnee",
+        "duration": "October 22 - November 22",
+        "desc": [
+          "Developed job portal as a intern. ",
+          "Developed single page and a multi page ecommerce website as a Trainee.",
+          "Learn about the advanced javascript and databse.",
+          "Used HTML , CSS , Javascript to develop the projects."
+        ]
+      },
+      {
+        "company": "Corizo",
+        "link": "https://corizo.in/",
+        "title": "Campus Executive",
+        "duration": "May 22 - June 22",
+        "desc": [
+          "Worked as a campus executive at my college for 2 months",
+          "Helped in marketing about the company and their courses.",
+          "As a result rapid growth in their reputation and the courses sold"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Lexical-Cli",
+        "image": "./images/lexical.png",
+        "desc": "Using Lexical CLI you can find the meaning of any word in your Cli itself. Lexical-Cli uses an open-source API to fetch the data, It is a react-ink-based project.",
+        "skills": ["React", "ReactInk", "Javascript", "CSS"],
+        "github": "https://github.com/sid-khuntwal/lexical-cli-hacktoberfest",
+        "link": ""
+      },
+      {
+        "title": "Anime Search Engine",
+        "image": "./images/anime.jpg",
+        "desc": "An anime search engine built on Reactjs to search all kinds of anime (movies or series). It displays Top 10 trending animes and also shows the result od desired keyword.",
+        "skills": ["React", "CSS", "Javascript"],
+        "github": "https://github.com/sid-khuntwal/AnimeWorld",
+        "link": "https://animeeworld.netlify.app/"
+      },
+      {
+        "title": "Face Recognition Attendance System",
+        "image": "./images/face.jpg",
+        "desc": "A python-based student attendance system to mark students' attendance, demonstrating face recognition technology through python using OpenCV and other librarie",
+        "skills": ["Python", "OpenCV", "Face Recognition"],
+        "github": "https://github.com/sid-khuntwal/FaceReco_AttendaceSystem",
+        "link": ""
+      }
+    ]
+  }

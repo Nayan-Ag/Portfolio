@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nayan-Ag/Portfolio/static/css/main.c5b7bd72.css",
-    "main.js": "/Nayan-Ag/Portfolio/static/js/main.824b9790.js",
-    "static/media/home_bg.JPG": "/Nayan-Ag/Portfolio/static/media/home_bg.9ba31c51c191ab9de923.JPG",
-    "static/media/logo_img.jpg": "/Nayan-Ag/Portfolio/static/media/logo_img.e27e1e7b83f978de3057.jpg",
-    "index.html": "/Nayan-Ag/Portfolio/index.html",
-    "main.c5b7bd72.css.map": "/Nayan-Ag/Portfolio/static/css/main.c5b7bd72.css.map",
-    "main.824b9790.js.map": "/Nayan-Ag/Portfolio/static/js/main.824b9790.js.map"
+    "main.css": "/Portfolio/static/css/main.f262d89e.css",
+    "main.js": "/Portfolio/static/js/main.23bd0bfe.js",
+    "static/media/home_bg.JPG": "/Portfolio/static/media/home_bg.9ba31c51c191ab9de923.JPG",
+    "static/media/logo_img.jpg": "/Portfolio/static/media/logo_img.e27e1e7b83f978de3057.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.f262d89e.css.map": "/Portfolio/static/css/main.f262d89e.css.map",
+    "main.23bd0bfe.js.map": "/Portfolio/static/js/main.23bd0bfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5b7bd72.css",
-    "static/js/main.824b9790.js"
+    "static/css/main.f262d89e.css",
+    "static/js/main.23bd0bfe.js"
   ]
 }
